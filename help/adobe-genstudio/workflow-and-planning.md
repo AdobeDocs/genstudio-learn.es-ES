@@ -90,7 +90,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integración de Adobe Workfront y AEM Assets Essentials">Integración de Adobe Workfront y AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integración de Adobe Workfront y AEM Assets Essentials">Integrar Adobe Workfront y AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Aprenda a integrar Workfront y AEM Assets Essentials para optimizar la administración de los flujos de trabajo creativos.</em></p>
       </div>
@@ -111,7 +111,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Uso de complementos de Adobe Workfront para su integración con Creative Cloud">Uso de complementos de Adobe Workfront para integrar con Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Uso de complementos de Adobe Workfront para su integración con Creative Cloud">Use complementos de Adobe Workfront para integrarse con Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado a usted sin salir de Adobe Creative Cloud.</em></p>
       </div>
@@ -132,7 +132,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" title="Configuración de Adobe Workfront y AEM Assets Essentials">Configuración de Adobe Workfront y AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" title="Configuración de Adobe Workfront y AEM Assets Essentials">Configurar Adobe Workfront y AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Obtenga información sobre cómo configurar la integración de Adobe Workfront y Assets Essentials</em></p>
       </div>
@@ -174,7 +174,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integración de Workfront y AEM Assets con el conector mejorado">Integración de Workfront y AEM Assets con el conector mejorado</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integración de Workfront y AEM Assets con el conector mejorado">Integrar Workfront y AEM Assets con el conector mejorado</a>
           </p>
           <p class="is-size-6"><em>Serie de vídeos de cuatro partes sobre la integración de Workfront y AEM Assets mediante el conector mejorado.</em></p>
       </div>
@@ -264,4 +264,4 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
 * [Eventos de Experience League](https://experienceleague.adobe.com/events/)
 * [Adobe [!DNL GenStudio] en business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] guía de recursos](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
-* [Adobes en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
