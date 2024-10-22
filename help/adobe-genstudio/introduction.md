@@ -1,13 +1,13 @@
 ---
 title: introducción
 description: introducción
-source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
+source-git-commit: 92581e6251297c40001c99eba09fc019b9770d92
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 15%
+source-wordcount: '15'
+ht-degree: 20%
 
 ---
 
 # Introducción
 
-Si desea cambiar el nombre de este archivo a overview.md, elimine la redirección en el archivo content-Supply-Chain-tutorials.md.
+Visite la página de inicio de [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) para obtener la información más reciente.
